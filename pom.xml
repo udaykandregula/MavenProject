@@ -14,12 +14,7 @@
       <version>3.8.1</version>
       <scope>test</scope>
     </dependency>
-    <dependency>
-    <groupId>org.apache.tomcat.maven</groupId>
-    <artifactId>tomcat8-maven-plugin</artifactId>
-    <version>3.0-r1756463</version>
-</dependency>
-  </dependencies>
+    </dependencies>
 <build>
  <plugins>
  <plugin>
