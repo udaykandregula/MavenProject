@@ -21,7 +21,7 @@
           <groupId>org.apache.maven.plugins</groupId>
          <artifactId>maven-war-plugin</artifactId>
  <configuration>
-         <outputDirectory>/root/jenkinsop</outputDirectory>
+         <outputDirectory>/home/ubuntu/jenk</outputDirectory>
   </configuration>
   </plugin>
    <plugin>
